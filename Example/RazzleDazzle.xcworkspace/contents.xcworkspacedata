@@ -4,7 +4,4 @@
    <FileRef
       location = "group:RazzleDazzle.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Example/RazzleDazzleDemo.xcodeproj">
-   </FileRef>
 </Workspace>
